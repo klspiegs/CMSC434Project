@@ -1,1 +1,2 @@
-# CMSC434Project
+# CMSC434 Project
+This was a semester long project where we worked in small teams to develop a health web app, where users can track their mood, nutrition, and exercise. We recieved over an 100% and were successfully able to create the app locally. To interact, download the project and open index.html. Part of the project's rubric was to have it run locally, which is why we don't have it running on GitHub pages or anything. I'll be looking into that in the future, though :)
